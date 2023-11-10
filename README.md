@@ -1,3 +1,6 @@
+
+![image](https://github.com/jacqueline-quispe/DETECCION-DE-DUPLICADOS-LABORATORIO-FARMACEUTICO/assets/123706589/3c38e166-3d92-4694-ad1a-4237b61387ca)
+
 # Maestría en Sistemas de Información con mención en Inteligencia de Negocios y Analítica de datos.
 
 ## Proyecto: 
