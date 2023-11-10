@@ -112,13 +112,20 @@ https://github.com/jacqueline-quispe/Proyecto-de-c-ncer/blob/main/PROYECTO%20C%C
 ## Conclusión.
 ***
 
-En el modelo KNN tenemos un error de train de 7.07% y de test de 7.68%, en cuanto a la matriz de confusión tenemos que este modelo predijo correctamente 142 casos de cancer benignos y 279 malignos, los falsos negativos que nos da el modelo es de 27 casos.
+La implementación de este proyecto ayudará a mejorar la calidad de los datos, reducir costos/tiempo, optimizar recursos, identificando patrones y tendencias para una toma de decisiones eficiente a los departamentos de Marketing, Gerencia de Ventas, Business Inteligencie, Tecnología.
 
-El modelo Boosting tenemos un error de train de 0.0% y de test de 5.26%, en cuanto a la matriz de confusión tenemos que este modelo predijo correctamente 283 casos de cancer benignos y 149 malignos, los falsos negativos que nos da el modelo es de 20 casos.
+El algoritmo y modelo de Procesamiento de Lenguaje Natural (NLP), ayudará a mantener una integridad en las bases de datos de la compañía.
 
-El modelo Boosting tenemos un error de train de 9.73% y de test de 10.96%, en cuanto a la matriz de confusión tenemos que este modelo predijo correctamente 284 casos de cancer benignos y 122 malignos, los falsos negativos que nos da el modelo es de 47 casos.
+Este proyecto aporta y se alinea a la iniciativa de integración de nuevas tecnologías propuesta por la empresa con el objetivo de mantenerse a la vanguardia de la transformación digital.
 
-El modelo Boosting es el que mejor predice la base de datos del cáncer. Debido a que otorga solo 20 casos falsos negativos.
+## Recomendación.
+***
+
+Orientar al cliente en las necesidades y requerimientos que tiene acerca del modelo de detección de datos duplicados y llegar a un consenso entre ambas partes. De esta manera se puede identificar y solucionar problemas que podrían incrementarse conforme avanza el proyecto.
+
+Sugerimos a la Compañía implementar las políticas, procedimientos, programas y códigos que permitan garantizar el uso, manejo y recopilación de datos personales, en cumplimiento con la normativa vigente.
+
+Dado la eficiencia demostrada que tuvo el proyecto en este proceso especifico, se recomienda integrar estratégicamente modelos de procesamiento de lenguaje natural en los distintos sistemas y áreas de la compañía. Esto garantizará una notable mejora en la eficiencia operativa, así como también consolidará la calidad de la información y reforzará la integridad de los datos en toda la organización.
 
 ## Enlaces de interés
 ***
