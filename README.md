@@ -1,4 +1,4 @@
-![Image text]([https://colon15.com/wp-content/uploads/2019/08/sintomas-iniciales-cancer-mama.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fenlinea2.uide.edu.ec%2F&psig=AOvVaw3Y7nCWB_7h5gqJPPyNoxan&ust=1699668787720000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCK0dGtuIIDFQAAAAAdAAAAABAD))
+![Image text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fenlinea2.uide.edu.ec%2F&psig=AOvVaw3Y7nCWB_7h5gqJPPyNoxan&ust=1699668787720000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCK0dGtuIIDFQAAAAAdAAAAABAD)
 
 # Maestría en Sistemas de Información con mención en Inteligencia de Negocios y Analítica de datos.
 
