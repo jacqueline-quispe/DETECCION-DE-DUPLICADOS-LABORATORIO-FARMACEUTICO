@@ -1,4 +1,4 @@
-![Image text](.jpg)
+![Image text](https://github.com/jacqueline-quispe/DETECCION-DE-DUPLICADOS-LABORATORIO-FARMACEUTICO/blob/main/Header.jpg)
 
 # Maestría en Sistemas de Información con mención en Inteligencia de Negocios y Analítica de datos.
 
@@ -100,11 +100,11 @@ Es un clasificador de aprendizaje supervisado no paramétrico, que utiliza la pr
 
 La base de datos utilizada para el proyecto esta en:
 
-https://github.com/jacqueline-quispe/Proyecto-de-c-ncer/blob/main/data.csv
+https://github.com/jacqueline-quispe/DETECCION-DE-DUPLICADOS-LABORATORIO-FARMACEUTICO/blob/main/MEDICOS%20NUEVOS.xlsx
 
 El notebook es:
 
-https://github.com/jacqueline-quispe/Proyecto-de-c-ncer/blob/main/PROYECTO%20C%C3%81NCER%20DE%20SENO.ipynb
+https://github.com/jacqueline-quispe/DETECCION-DE-DUPLICADOS-LABORATORIO-FARMACEUTICO/blob/main/C%C3%93DIGO%20NLP.ipynb
 
 ## Conclusión.
 ***
