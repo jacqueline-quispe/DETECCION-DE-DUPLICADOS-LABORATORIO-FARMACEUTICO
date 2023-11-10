@@ -1,8 +1,8 @@
-# Diseño de un modelo de detección de datos duplicados mediante Procesamiento del Lenguaje Natural para Optimizar la Eficiencia en la Gestión de Datos en un Laboratorio Farmacéutico
-![image](https://github.com/jacqueline-quispe/DETECCION-DE-DUPLICADOS-LABORATORIO-FARMACEUTICO/assets/123706589/fdfd73a0-de0e-408e-aace-2882a54665a1)
+# Maestría en Sistemas de Información con mención en Inteligencia de Negocios y Analítica de datos.
 
-Maestría en Sistemas de Información con mención en Inteligencia de Negocios y Analítica de datos.
-# Proyecto Cáncer de Seno
+# Diseño de un modelo de detección de datos duplicados mediante Procesamiento del Lenguaje Natural para Optimizar la Eficiencia en la Gestión de Datos en un Laboratorio Farmacéutico
+
+
 
 
 
