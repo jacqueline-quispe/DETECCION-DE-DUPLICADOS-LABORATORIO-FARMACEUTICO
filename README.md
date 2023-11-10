@@ -6,10 +6,10 @@
 ### Diseño de un modelo de detección de datos duplicados mediante Procesamiento del Lenguaje Natural para Optimizar la Eficiencia en la Gestión de Datos en un Laboratorio Farmacéutico
 
 ## Autores: 
-Doménica Gómez
-Cristina Pavón
-Dario Herrera
-Jacqueline Quispe
+* Doménica Gómez
+* Cristina Pavón
+* Dario Herrera
+* Jacqueline Quispe
 
 
 
@@ -27,16 +27,13 @@ Jacqueline Quispe
 
 ### Información General
 ***
-El cáncer de seno (mama) se origina cuando las células mamarias comienzan a crecer sin control. Las células cancerosas del seno normalmente forman un tumor que a menudo se puede observar en una radiografía o se puede palpar como una masa o bulto.
-Es importante que sepa que la mayoría de los bultos en los senos son benignos y no cancerosos (malignos). Los tumores no cancerosos de los senos (benignos) son crecimientos anormales, pero no se propagan fuera de los senos. Estos tumores no representan un peligro para la vida, aunque algunos tipos de bultos benignos pueden aumentar el riesgo de una mujer de padecer cáncer de seno. Cualquier bulto o cambio en el seno debe ser examinado por un profesional de atención médica para saber si es benigno o maligno (cáncer), y si podría afectar su riesgo futuro de padecer cáncer. 
 
-Los cánceres de seno pueden originarse en diferentes partes del seno.
+El Laboratorio Farmacéutico maneja una gran cantidad de datos, tales como: datos de los médicos, nombres de los visitadores, nombre de productos, entre otros. En la actualidad existen procesos manuales dentro de la Compañía, que implica la ocurrencia de errores humanos en la digitación y duplicación de información, lo que dificulta el posterior análisis de datos. Por tal motivo existe la necesidad de identificar y eliminar dichos datos.
+La detección manual de duplicados en grandes conjuntos de datos es un proceso laborioso y propenso a errores, lo que hace indispensable el desarrollo de un modelo de procesamiento del lenguaje natural (NLP) que permita identificar automáticamente duplicados con precisión y eficiencia.
 
-* La mayoría de los cánceres de seno comienza en los conductos que llevan la leche hacia el pezón (cánceres ductales).
-* Algunos cánceres se originan en las glándulas que producen leche (cánceres lobulillares).
-* También hay otros tipos de cáncer de seno que son menos comunes como el tumor filodes y el angiosarcoma.
-* Un pequeño número de cánceres comienza en otros tejidos del seno. A estos cánceres se les llama sarcomas y linfomas, y en realidad no se consideran cánceres de seno.
-* Aunque muchos tipos de cáncer de seno pueden causar un bulto  en el seno, no todos lo hacen. 
+La implementación de un modelo de lenguaje natural que valide o identifique automáticamente los datos duplicados ayudará a la compañía a disminuir la acumulación de información errónea en las diferentes bases de datos, reducción de asignaciones duplicadas de presupuestos, disminución de los gastos operativos, reducción de tiempos en los procesos de tratamiento de datos y verificación de información. También permitirá el análisis adecuando de la información en los procesos posteriores, tales como: segmentación de médicos, cálculo de comisiones, entre otros.
+
+La implementación de validaciones programadas en Excel, como el uso de macros, acompañada de un modelo NLP robusto, permitirá a la organización procesar y analizar los datos de manera más eficiente. Al automatizar la detección de duplicados y la corrección de errores lingüísticos y semánticos, se reducirá 4significativamente el tiempo y el esfuerzo requeridos para mantener la integridad de los datos. Esto no solo mejorará la calidad y confiabilidad de la información, sino que también optimizará la toma de decisiones y la gestión de los recursos de la empresa.
 
 
 ![Image text](https://colon15.com/wp-content/uploads/2019/08/sintomas-iniciales-cancer-mama.jpg)
