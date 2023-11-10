@@ -112,20 +112,20 @@ https://github.com/jacqueline-quispe/Proyecto-de-c-ncer/blob/main/PROYECTO%20C%C
 ## Conclusión.
 ***
 
-La implementación de este proyecto ayudará a mejorar la calidad de los datos, reducir costos/tiempo, optimizar recursos, identificando patrones y tendencias para una toma de decisiones eficiente a los departamentos de Marketing, Gerencia de Ventas, Business Inteligencie, Tecnología.
+* La implementación de este proyecto ayudará a mejorar la calidad de los datos, reducir costos/tiempo, optimizar recursos, identificando patrones y tendencias para una toma de decisiones eficiente a los departamentos de Marketing, Gerencia de Ventas, Business Inteligencie, Tecnología.
 
-El algoritmo y modelo de Procesamiento de Lenguaje Natural (NLP), ayudará a mantener una integridad en las bases de datos de la compañía.
+* El algoritmo y modelo de Procesamiento de Lenguaje Natural (NLP), ayudará a mantener una integridad en las bases de datos de la compañía.
 
-Este proyecto aporta y se alinea a la iniciativa de integración de nuevas tecnologías propuesta por la empresa con el objetivo de mantenerse a la vanguardia de la transformación digital.
+* Este proyecto aporta y se alinea a la iniciativa de integración de nuevas tecnologías propuesta por la empresa con el objetivo de mantenerse a la vanguardia de la transformación digital.
 
 ## Recomendación.
 ***
 
-Orientar al cliente en las necesidades y requerimientos que tiene acerca del modelo de detección de datos duplicados y llegar a un consenso entre ambas partes. De esta manera se puede identificar y solucionar problemas que podrían incrementarse conforme avanza el proyecto.
+* Orientar al cliente en las necesidades y requerimientos que tiene acerca del modelo de detección de datos duplicados y llegar a un consenso entre ambas partes. De esta manera se puede identificar y solucionar problemas que podrían incrementarse conforme avanza el proyecto.
 
-Sugerimos a la Compañía implementar las políticas, procedimientos, programas y códigos que permitan garantizar el uso, manejo y recopilación de datos personales, en cumplimiento con la normativa vigente.
+* Sugerimos a la Compañía implementar las políticas, procedimientos, programas y códigos que permitan garantizar el uso, manejo y recopilación de datos personales, en cumplimiento con la normativa vigente.
 
-Dado la eficiencia demostrada que tuvo el proyecto en este proceso especifico, se recomienda integrar estratégicamente modelos de procesamiento de lenguaje natural en los distintos sistemas y áreas de la compañía. Esto garantizará una notable mejora en la eficiencia operativa, así como también consolidará la calidad de la información y reforzará la integridad de los datos en toda la organización.
+* Dado la eficiencia demostrada que tuvo el proyecto en este proceso especifico, se recomienda integrar estratégicamente modelos de procesamiento de lenguaje natural en los distintos sistemas y áreas de la compañía. Esto garantizará una notable mejora en la eficiencia operativa, así como también consolidará la calidad de la información y reforzará la integridad de los datos en toda la organización.
 
 ## Enlaces de interés
 ***
