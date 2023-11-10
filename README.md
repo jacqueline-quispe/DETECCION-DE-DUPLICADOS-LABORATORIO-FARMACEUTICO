@@ -1,7 +1,7 @@
 # Maestría en Sistemas de Información con mención en Inteligencia de Negocios y Analítica de datos.
 
 ## Proyecto: 
-## Diseño de un modelo de detección de datos duplicados mediante Procesamiento del Lenguaje Natural para Optimizar la Eficiencia en la Gestión de Datos en un Laboratorio Farmacéutico
+### Diseño de un modelo de detección de datos duplicados mediante Procesamiento del Lenguaje Natural para Optimizar la Eficiencia en la Gestión de Datos en un Laboratorio Farmacéutico
 
 ## Autores: 
 Doménica Gómez
