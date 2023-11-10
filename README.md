@@ -36,7 +36,7 @@ La implementación de un modelo de lenguaje natural que valide o identifique aut
 La implementación de validaciones programadas en Excel, como el uso de macros, acompañada de un modelo NLP robusto, permitirá a la organización procesar y analizar los datos de manera más eficiente. Al automatizar la detección de duplicados y la corrección de errores lingüísticos y semánticos, se reducirá 4significativamente el tiempo y el esfuerzo requeridos para mantener la integridad de los datos. Esto no solo mejorará la calidad y confiabilidad de la información, sino que también optimizará la toma de decisiones y la gestión de los recursos de la empresa.
 
 
-![Image text](https://colon15.com/wp-content/uploads/2019/08/sintomas-iniciales-cancer-mama.jpg)
+![Image text](https://github.com/jacqueline-quispe/DETECCION-DE-DUPLICADOS-LABORATORIO-FARMACEUTICO/blob/main/NLP.jpg)
 
 
 ## Tecnología
