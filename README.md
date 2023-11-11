@@ -117,7 +117,13 @@ Algunas de las características clave de FuzzyWuzzy incluyen:
 
 ### Modelo Berth
 
+<div align="center">
 ![Image text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYegJ823ROLc4sxfRTLM3QL5yINzHlLVvBVDYEoU2f7ZEP9FWds-xwtKvlkX7RU4kEEAI&usqp=CAU)
+</div>
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYegJ823ROLc4sxfRTLM3QL5yINzHlLVvBVDYEoU2f7ZEP9FWds-xwtKvlkX7RU4kEEAI&usqp=CAU" alt="Texto alternativo">
+</p>
 
 
 "BERT" (Bidirectional Encoder Representations from Transformers)​ (Devlin, 2008)​, que es uno de los modelos de procesamiento de lenguaje natural más influyentes y ampliamente utilizados desarrollado por Google. 
