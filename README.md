@@ -106,11 +106,11 @@ El algoritmo Token Sort Ratio tokeniza ambas cadenas de entrada, ordena los toke
 Tokeniza ambas cadenas de entrada, elimina tokens duplicados y calcula la puntuación de similitud en función de la intersección y unión de los conjuntos de tokens. Capta la esencia del contenido de las cadenas en lugar de su orden específico. Token Set Ratio es útil cuando desea comparar cadenas independientemente del orden de las palabras. Es eficaz para escenarios en los que la disposición de las palabras puede variar pero el contenido general sigue siendo similar. (Chandra, 2023)
 
 Algunas de las características clave de FuzzyWuzzy incluyen:
-* Cálculo de similitud: FuzzyWuzzy proporciona diversas funciones para calcular la similitud entre cadenas de texto, lo que es útil en la comparación de registros, corrección de ortografía y de duplicación de datos. (GitHub, 2023)
-* Opciones de tokenización: FuzzyWuzzy permite personalizar la tokenización y el procesamiento de cadenas para adaptarse a las necesidades específicas del problema. (GitHub, 2023)
-* Selección de la mejor coincidencia: Puedes utilizar la función fuzz.extractOne para encontrar la mejor coincidencia entre una cadena de consulta y una lista de cadenas. (GitHub, 2023)
-* Escalabilidad: FuzzyWuzzy es eficiente y escalable, lo que lo hace adecuado para aplicaciones que involucran grandes conjuntos de datos. (GitHub, 2023)
-* Fácil de usar: La biblioteca es fácil de utilizar y está disponible a través de la instalación con pip en Python. (GitHub, 2023)
+* --Cálculo de similitud:-- FuzzyWuzzy proporciona diversas funciones para calcular la similitud entre cadenas de texto, lo que es útil en la comparación de registros, corrección de ortografía y de duplicación de datos. (GitHub, 2023)
+* --Opciones de tokenización:-- FuzzyWuzzy permite personalizar la tokenización y el procesamiento de cadenas para adaptarse a las necesidades específicas del problema. (GitHub, 2023)
+* --Selección de la mejor coincidencia:-- Puedes utilizar la función fuzz.extractOne para encontrar la mejor coincidencia entre una cadena de consulta y una lista de cadenas. (GitHub, 2023)
+* --Escalabilidad:-- FuzzyWuzzy es eficiente y escalable, lo que lo hace adecuado para aplicaciones que involucran grandes conjuntos de datos. (GitHub, 2023)
+* --Fácil de usar:-- La biblioteca es fácil de utilizar y está disponible a través de la instalación con pip en Python. (GitHub, 2023)
 
 
 
@@ -127,15 +127,15 @@ BERT se caracteriza por ser un modelo Aprendizaje Profundo, es decir, es una red
 
 Algunas de las características clave de BERT incluyen: 
 
-* Bidireccionalidad: BERT es capaz de capturar el contexto en ambas direcciones en una oración, lo que lo hace más hábil para comprender el significado y la relación entre palabras. 
+* --Bidireccionalidad:-- BERT es capaz de capturar el contexto en ambas direcciones en una oración, lo que lo hace más hábil para comprender el significado y la relación entre palabras. 
 
-* Pre-entrenamiento y ajuste fino: BERT se entrena primero en grandes cantidades de texto sin supervisión, lo que le permite aprender representaciones de palabras contextualmente ricas. Luego, se puede ajustar para tareas específicas de NLP con datos de entrenamiento más pequeños ​(Wolf, 2019)​. 
+* --Pre-entrenamiento y ajuste fino:-- BERT se entrena primero en grandes cantidades de texto sin supervisión, lo que le permite aprender representaciones de palabras contextualmente ricas. Luego, se puede ajustar para tareas específicas de NLP con datos de entrenamiento más pequeños ​(Wolf, 2019)​. 
 
-* Transferencia de conocimiento: Debido a su pre-entrenamiento en una gran cantidad de datos, BERT ha demostrado ser altamente efectivo en una variedad de tareas de NLP, como el etiquetado de entidades, la clasificación de texto, la traducción automática, el resumen de texto y más. 
+* --Transferencia de conocimiento:-- Debido a su pre-entrenamiento en una gran cantidad de datos, BERT ha demostrado ser altamente efectivo en una variedad de tareas de NLP, como el etiquetado de entidades, la clasificación de texto, la traducción automática, el resumen de texto y más. 
 
-* Amplia disponibilidad: BERT y sus variantes, como RoBERTa, GPT-2 y otros, están disponibles como modelos pre-entrenados y se pueden utilizar en diversas aplicaciones a través de bibliotecas de Python como Hugging Face Transformers. 
+* --Amplia disponibilidad:-- BERT y sus variantes, como RoBERTa, GPT-2 y otros, están disponibles como modelos pre-entrenados y se pueden utilizar en diversas aplicaciones a través de bibliotecas de Python como Hugging Face Transformers. 
 
-* Elevado rendimiento: BERT y sus derivados han logrado un rendimiento líder en muchas tareas de procesamiento de lenguaje natural y han establecido un estándar alto en el campo. 
+* --Elevado rendimiento:-- BERT y sus derivados han logrado un rendimiento líder en muchas tareas de procesamiento de lenguaje natural y han establecido un estándar alto en el campo. 
 
 El modelo que obtuvo un mejor rendimiento en cuanto a resultados y tiempo de ejecución es el modelo FuzzyWuzzy Token Sort Ratio, para lo cual se ha integrado la base de datos y notebook para poder ejecutarlo:
 
