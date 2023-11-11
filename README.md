@@ -117,6 +117,9 @@ Algunas de las características clave de FuzzyWuzzy incluyen:
 
 ### Modelo Berth
 
+![Image text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYegJ823ROLc4sxfRTLM3QL5yINzHlLVvBVDYEoU2f7ZEP9FWds-xwtKvlkX7RU4kEEAI&usqp=CAU)
+
+
 "BERT" (Bidirectional Encoder Representations from Transformers)​ (Devlin, 2008)​, que es uno de los modelos de procesamiento de lenguaje natural más influyentes y ampliamente utilizados desarrollado por Google. 
 
 La metodología de clasificación de texto con BERT es distinta de la presentada anteriormente y se diferencia en que la vectorización y clasificación del texto se hacen en un mismo proceso. Se dice que BERT es un modelo de propósito general ya que se utiliza en diferentes tareas de NLP y para definir el uso que se le quiere dar solo se debe conectar una capa especializada en una tarea específica sobre la capa de output de BERT. Para clasificar texto, sobre la capa de output de BERT se añade el clasificador basado en redes neuronales y durante el entrenamiento se modifican los pesos de BERT y los del clasificador simultáneamente. 
