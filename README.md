@@ -19,15 +19,15 @@
 
 
 ## Tabla de contenidos
-1. [Información General](###general-info)
-2. [Tecnología](###technologies)
-3. [Desarrollo](###installation)
-4. [Conclusiones]
-5. [Recomendaciones]
-6. [Enlaces de interés](###collaboration)
+1. [Introducción](#introducción)
+2. [Tecnología](#tecnologia)
+3. [Desarrollo](#desarrollo)
+4. [Conclusiones](#conclusiones)
+5. [Recomendaciones](#recomendaciones)
+6. [Enlaces de interés](#enlaces-de-interes)
 
 
-### Información General
+### Introducción
 ***
 
 El Laboratorio Farmacéutico maneja una gran cantidad de datos, tales como: datos de los médicos, nombres de los visitadores, nombre de productos, entre otros. En la actualidad existen procesos manuales dentro de la Compañía, que implica la ocurrencia de errores humanos en la digitación y duplicación de información, lo que dificulta el posterior análisis de datos. Por tal motivo existe la necesidad de identificar y eliminar dichos datos.
