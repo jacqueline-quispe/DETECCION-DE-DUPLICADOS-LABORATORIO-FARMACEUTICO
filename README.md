@@ -19,10 +19,10 @@
 
 
 ## Tabla de contenidos
-1. [Información General](#general-info)
-2. [Tecnología](#technologies)
-3. [Desarrollo](#installation)
-4. [Enlaces de interés](#collaboration)
+1. [Información General](###general-info)
+2. [Tecnología](###technologies)
+3. [Desarrollo](###installation)
+4. [Enlaces de interés](###collaboration)
 
 
 ### Información General
@@ -58,14 +58,20 @@ Un humano puede distinguir con claridad la intención de una palabra mal escrita
 ### Modelo FuzzyWuzzy
 
 En el ámbito del análisis de datos y el procesamiento del lenguaje natural, comparar y hacer coincidir cadenas es una tarea común y crucial. Sin embargo, debido a variaciones en la ortografía, el orden de las palabras y diferencias menores, es posible que la coincidencia exacta de cadenas no siempre produzca resultados precisos. Aquí es donde entran en juego los algoritmos de coincidencia de cadenas difusas. (Chandra, 2023)
+
 El algoritmo de coincidencia difusa de cadenas busca determinar el grado de cercanía entre dos cadenas diferentes. Esto se descubre utilizando una métrica de distancia conocida como "editar distancia". La distancia de edición determina qué tan cerca están dos cadenas al encontrar el número mínimo de "ediciones" necesarias para transformar una cadena en otra. (Dutta, 2023) 
+
 Hay cuatro tipos principales de ediciones:
-•	Insertar una letra
-•	Eliminar una letra
-•	Intercambiar dos letras adyacentes
-•	Reemplazar una letra por otra (Pykes, 2023)
-Combinar las operaciones de edición le permite descubrir la lista de posibles cadenas que están a N ediciones de distancia, donde N es el número de operaciones de edición.  Existen diferentes variaciones sobre cómo calcular la distancia de edición. Una de ellas es la distancia de Levenshtein. (Pykes, 2023)
-La distancia de Levenshtein
+***
+* Insertar una letra
+* Eliminar una letra
+* Intercambiar dos letras adyacentes
+* Reemplazar una letra por otra
+  
+Combinar las operaciones de edición le permite descubrir la lista de posibles cadenas que están a N ediciones de distancia, donde N es el número de operaciones de edición.  Existen diferentes variaciones sobre cómo calcular la distancia de edición. Una de ellas es la distancia de Levenshtein. (Pykes, 2023
+
+####La distancia de Levenshtein
+
 Es una métrica que lleva el nombre de Vladimir Levenshtein, quien la consideró originalmente en 1965 para medir la diferencia entre dos secuencias de palabras. Podemos usarlo para descubrir la cantidad mínima de ediciones que debe realizar para cambiar una secuencia de una palabra a otra. (Pykes, 2023)
 
 
@@ -83,12 +89,19 @@ Es importante tener en cuenta que las filas del mínimo anterior corresponden a 
 Algunos de los algoritmos más comunes incluidos en FuzzyWuzzy son:
 
 #### Algortimo Fuzz Ratio
+
 Este algortimo mide la similitud entre dos cadenas calculando el número mínimo de ediciones de un solo carácter (inserciones, eliminaciones o sustituciones) necesarias para transformar una cadena en la otra. Es útil cuando necesitas comparar dos cadenas y determinar su similitud general. Es eficaz para identificar cadenas similares que pueden tener diferencias menores debido a errores tipográficos o variaciones ortográficas. (Chandra, 2023)
+
 #### Algortimo Fuzz Partial Ratio
+
 Es bastante similar al anterior, pero considera solo la subcadena que mejor coincide entre dos cadenas. Calcula la puntuación de similitud en función de la longitud de la subcadena común más larga, en lugar de la longitud de la cadena completa. Este enfoque ayuda a manejar casos en los que una cadena es un subconjunto o prefijo de la otra. El algoritmo es útil cuando desea encontrar la similitud entre dos cadenas, centrándose solo en la subcadena que mejor coincide. Es particularmente eficaz para identificar coincidencias cuando una cadena es un subconjunto o prefijo de la otra. (Chandra, 2023)
+
 #### Algortimo Fuzz Token Sort Ratio
+
 El algoritmo Token Sort Ratio tokeniza ambas cadenas de entrada, ordena los tokens alfabéticamente y calcula la puntuación de similitud en función de la relación Fuzz entre las listas de tokens ordenadas. Maneja casos en los que el orden de las palabras difiere, pero existe el mismo conjunto de palabras en ambas cadenas. Token Sort Ratio es útil cuando desea comparar cadenas y considerar variaciones en el orden de las palabras. Es particularmente eficaz cuando se espera que las palabras sean similares, pero su posición puede diferir. (Chandra, 2023)
+
 #### Algortimo Fuzz Token Set Ratio
+
 Tokeniza ambas cadenas de entrada, elimina tokens duplicados y calcula la puntuación de similitud en función de la intersección y unión de los conjuntos de tokens. Capta la esencia del contenido de las cadenas en lugar de su orden específico. Token Set Ratio es útil cuando desea comparar cadenas independientemente del orden de las palabras. Es eficaz para escenarios en los que la disposición de las palabras puede variar pero el contenido general sigue siendo similar. (Chandra, 2023)
 
 Algunas de las características clave de FuzzyWuzzy incluyen:
@@ -113,16 +126,16 @@ El entrenamiento de BERT consta de 2 fases, el preentrenamiento y la fase de aju
 BERT se caracteriza por ser un modelo Aprendizaje Profundo, es decir, es una red neuronal de múltiples capaz, y sus buenos resultados en cuanto a la captura de propiedades intrínsecas del lenguaje se deben a la arquitectura de la red. La forma en que están conectadas las capas de la red no es común y cada microestructura dentro de la red tiene un objetivo específico. El modelo BERT se explica de manera conceptual ya que su alta complejidad dificulta detallarlo matemáticamente ​(Wolf, 2019)​. 
 
 Algunas de las características clave de BERT incluyen: 
+***
+* Bidireccionalidad: BERT es capaz de capturar el contexto en ambas direcciones en una oración, lo que lo hace más hábil para comprender el significado y la relación entre palabras. 
 
-Bidireccionalidad: BERT es capaz de capturar el contexto en ambas direcciones en una oración, lo que lo hace más hábil para comprender el significado y la relación entre palabras. 
+* Pre-entrenamiento y ajuste fino: BERT se entrena primero en grandes cantidades de texto sin supervisión, lo que le permite aprender representaciones de palabras contextualmente ricas. Luego, se puede ajustar para tareas específicas de NLP con datos de entrenamiento más pequeños ​(Wolf, 2019)​. 
 
-Pre-entrenamiento y ajuste fino: BERT se entrena primero en grandes cantidades de texto sin supervisión, lo que le permite aprender representaciones de palabras contextualmente ricas. Luego, se puede ajustar para tareas específicas de NLP con datos de entrenamiento más pequeños ​(Wolf, 2019)​. 
+* Transferencia de conocimiento: Debido a su pre-entrenamiento en una gran cantidad de datos, BERT ha demostrado ser altamente efectivo en una variedad de tareas de NLP, como el etiquetado de entidades, la clasificación de texto, la traducción automática, el resumen de texto y más. 
 
-Transferencia de conocimiento: Debido a su pre-entrenamiento en una gran cantidad de datos, BERT ha demostrado ser altamente efectivo en una variedad de tareas de NLP, como el etiquetado de entidades, la clasificación de texto, la traducción automática, el resumen de texto y más. 
+* Amplia disponibilidad: BERT y sus variantes, como RoBERTa, GPT-2 y otros, están disponibles como modelos pre-entrenados y se pueden utilizar en diversas aplicaciones a través de bibliotecas de Python como Hugging Face Transformers. 
 
-Amplia disponibilidad: BERT y sus variantes, como RoBERTa, GPT-2 y otros, están disponibles como modelos pre-entrenados y se pueden utilizar en diversas aplicaciones a través de bibliotecas de Python como Hugging Face Transformers. 
-
-Elevado rendimiento: BERT y sus derivados han logrado un rendimiento líder en muchas tareas de procesamiento de lenguaje natural y han establecido un estándar alto en el campo. 
+* Elevado rendimiento: BERT y sus derivados han logrado un rendimiento líder en muchas tareas de procesamiento de lenguaje natural y han establecido un estándar alto en el campo. 
 
 El modelo que obtuvo un mejor rendimiento en cuanto a resultados y tiempo de ejecución es el modelo FuzzyWuzzy Token Sort Ratio, para lo cual se ha integrado la base de datos y notebook para poder ejecutarlo:
 
