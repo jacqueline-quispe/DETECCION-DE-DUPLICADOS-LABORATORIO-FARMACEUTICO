@@ -24,7 +24,7 @@
 3. [Desarrollo](#desarrollo)
 4. [Conclusiones](#conclusiones)
 5. [Recomendaciones](#recomendaciones)
-6. [Enlaces de interés](#enlaces-de-interes)
+6. [Enlaces de interés](#enlaces-de-interés)
 
 
 ### Introducción
@@ -149,7 +149,7 @@ https://github.com/jacqueline-quispe/DETECCION-DE-DUPLICADOS-LABORATORIO-FARMACE
 
 
 
-## Conclusión.
+## Conclusiones.
 ***
 
 * La implementación de este proyecto ayudará a mejorar la calidad de los datos, reducir costos/tiempo, optimizar recursos, identificando patrones y tendencias para una toma de decisiones eficiente a los departamentos de Marketing, Gerencia de Ventas, Business Inteligencie, Tecnología.
@@ -158,7 +158,7 @@ https://github.com/jacqueline-quispe/DETECCION-DE-DUPLICADOS-LABORATORIO-FARMACE
 
 * Este proyecto aporta y se alinea a la iniciativa de integración de nuevas tecnologías propuesta por la empresa con el objetivo de mantenerse a la vanguardia de la transformación digital.
 
-## Recomendación.
+## Recomendaciones.
 ***
 
 * Orientar al cliente en las necesidades y requerimientos que tiene acerca del modelo de detección de datos duplicados y llegar a un consenso entre ambas partes. De esta manera se puede identificar y solucionar problemas que podrían incrementarse conforme avanza el proyecto.
