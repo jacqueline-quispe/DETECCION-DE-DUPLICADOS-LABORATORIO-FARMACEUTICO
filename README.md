@@ -45,7 +45,7 @@ La implementación de validaciones programadas en Excel, como el uso de macros, 
 ## Tecnología
 ***
 Los programas utilizados son:
-* [Python](https://www.python.org/): Version 3.8.6
+* [Python](https://www.python.org/): Version 3.11.4
 * [VSC](https://code.visualstudio.com/)
 * [Jupyter Notebook](https://jupyter.org/)
 * [SQL Server](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
