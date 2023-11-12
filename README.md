@@ -143,7 +143,7 @@ El modelo que obtuvo un mejor rendimiento en cuanto a resultados y tiempo de eje
 
 La base de datos utilizada para el proyecto esta en:
 
-https://github.com/jacqueline-quispe/DETECCION-DE-DUPLICADOS-LABORATORIO-FARMACEUTICO/blob/main/MEDICOS%20NUEVOS.xlsx
+https://github.com/jacqueline-quispe/DETECCION-DE-DUPLICADOS-LABORATORIO-FARMACEUTICO/blob/main/ALTAS%20MED.xlsm
 
 El notebook es:
 
